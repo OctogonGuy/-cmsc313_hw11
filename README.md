@@ -19,3 +19,11 @@ To run the program, execute the following command:
 ```
 ./printer
 ```
+
+## Example output
+
+The program should produce output similar to the following:
+
+```
+83 6A 88 DE 9A C3 54 9A
+```
